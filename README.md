@@ -12,7 +12,7 @@
 <p>I have 7-year industrial experince in geological engineering and have a Ph.D. degree as well. I took a big step to change my career to become a data analyst. </p>
 <p>I'm a data analyst. I have experience working as part of a team and individually. </p>
 <p>Recently, I have been taking a data analytics bootcamp at Ironhack where I have been learning and applying machine learning models using Python, SQL, Tableau. </p>
-<p>Feel free to contact me.</p>
+<p>Feel free to contact me for any questions and comments.</p>
 <br><br>
 
 <!--
