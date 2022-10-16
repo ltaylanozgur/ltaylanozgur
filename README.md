@@ -1,6 +1,11 @@
 <h1 align="center">Hi there <img src="Hi.gif" width="75px">, I'm Ozgur Yildirim</h1>
 <h3 align="center">I am a Data Analyst</h3>
 
+<h3 align="left">Connect with me:</h3>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltozguryildirim/) 
+[![Tableau](https://img.shields.io/badge/Tableau-2d4b65?style=for-the-badge&logo=Tableau&logoColor=E97627)](https://public.tableau.com/app/profile/levent.taylan.ozgur.yildirim#!/)
+
 <!--
 **ltaylanozgur/ltaylanozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
