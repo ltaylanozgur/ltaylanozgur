@@ -1,4 +1,5 @@
-### Hi there 👋 
+<h1 align="center">Hi there <img src="Hi.gif" width="75px">, I'm Ozgur Yildirim</h1>
+<h3 align="center">I am a Data Analyst</h3>
 
 <!--
 **ltaylanozgur/ltaylanozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
