@@ -34,6 +34,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ltaylanozgur.ltaylanozgur)
 ![](https://img.shields.io/github/followers/ltaylanozgur?style=social)
 
+
 <p align="center">
   <a href="https://github.com/ltaylanozgur"><span>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltaylanozgur&theme=dracula" />
