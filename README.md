@@ -34,6 +34,22 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ltaylanozgur.ltaylanozgur)
 ![](https://img.shields.io/github/followers/ltaylanozgur?style=social)
 
+<p align="center">
+  <a href="https://github.com/ltaylanozgur"><span>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltaylanozgur&theme=dracula" />
+    </span></a>
+</p>
+
+ 
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ltaylanozgur&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltaylanozgur&langs_count=8&count_private=true&theme=dracula&line_height=10">
+
+</p>
+
+
 
 <!--
 **ltaylanozgur/ltaylanozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
