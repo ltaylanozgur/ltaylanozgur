@@ -49,6 +49,7 @@
 
 </p>
 
+[![Linkedin](https://img.shields.io/badge/-ltaylanozgur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ltozguryildirim/)
 
 <!--
 **ltaylanozgur/ltaylanozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
