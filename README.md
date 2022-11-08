@@ -49,9 +49,6 @@
 
 </p>
 
-[![Linkedin](https://img.shields.io/badge/-ltaylanozgur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ltozguryildirim/)
-[![Tableau](https://img.shields.io/badge/-Tableau-2d4b65?style=flat&logo=tableau&logoColor=E97627)](https://public.tableau.com/app/profile/ozgur.yildirim#!/)
-
 <!--
 **ltaylanozgur/ltaylanozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
