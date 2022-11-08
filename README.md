@@ -5,6 +5,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltozguryildirim/) 
 [![Tableau](https://img.shields.io/badge/Tableau-2d4b65?style=for-the-badge&logo=Tableau&logoColor=E97627)](https://public.tableau.com/app/profile/levent.taylan.ozgur.yildirim#!/)
+[![Google Scholar](https://img.shields.io/badge/Google Scholar-2d4b65?style=for-the-badge&logo=Google Scholar&logoColor=E97627)](https://scholar.google.com/citations?user=oFj5AYoAAAAJ&hl=en)
+
 
 <h3 align="left">About me:</h3>
 
