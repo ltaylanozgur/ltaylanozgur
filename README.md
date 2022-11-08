@@ -29,6 +29,12 @@
     - Inferential Statistics in Python & Business Intelligence
     - Data Wrangling, Data Cleaning, API & Web Scraping
 
+**Github Stats:**
+
+![](https://visitor-badge.glitch.me/badge?page_id=ltaylanozgur.ltaylanozgur)
+![](https://img.shields.io/github/followers/ltaylanozgur?style=social)
+
+
 <!--
 **ltaylanozgur/ltaylanozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
