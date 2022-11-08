@@ -18,7 +18,7 @@
 <strong>Projects:</strong> <br>
  * [Football match predictions - Web scraping - RandomForestClassifier](https://github.com/ltaylanozgur/Football_Match_Predictions)
  * [Spotify song recommender - Web scraping - Working with API - Clustering](https://github.com/ltaylanozgur/Spotify_Song_Recommender)
- * [Weather prediction - Linear Regression - Logistic Regression](https://github.com/ltaylanozgur/Weather_Predictions)
+ * [Weather predictions - Linear Regression - Logistic Regression](https://github.com/ltaylanozgur/Weather_Predictions)
  
 <!--
 **ltaylanozgur/ltaylanozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
