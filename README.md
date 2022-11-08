@@ -19,7 +19,16 @@
  * [Football match predictions - Web scraping - RandomForestClassifier](https://github.com/ltaylanozgur/Football_Match_Predictions)
  * [Spotify song recommender - Web scraping - Working with API - Clustering](https://github.com/ltaylanozgur/Spotify_Song_Recommender)
  * [Weather predictions - Linear Regression - Logistic Regression](https://github.com/ltaylanozgur/Weather_Predictions)
+
+<strong>Education:</strong> <br>
  
+  * [Data Analyst, Ironhack Remote](https://www.credential.net/728e9da3-9bcb-4e59-88ee-1b2f2ef503e0#gs.i4gsjg)
+    - Data Analysis using Python (Pandas, NumPy) & MySQL
+    - Data Visualization (Tableau, Plotly, & Seaborn)
+    - Build, Evaluate & Deploy Machine Learning Models and Pipelines (Scikit-Learn)
+    - Inferential Statistics in Python & Business Intelligence
+    - Data Wrangling, Data Cleaning, API & Web Scraping
+
 <!--
 **ltaylanozgur/ltaylanozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
