@@ -22,7 +22,7 @@
 
 <strong>Education:</strong> <br>
  
-  * [Data Analytics, Ironhack Remote (Sep-Nov, 2022)](https://www.credential.net/728e9da3-9bcb-4e59-88ee-1b2f2ef503e0#gs.i4gsjg)
+  * [Data Analytics, Ironhack Remote (Sep - Nov 2022)](https://www.credential.net/728e9da3-9bcb-4e59-88ee-1b2f2ef503e0#gs.i4gsjg)
     - Data Analysis using Python (Pandas, NumPy) & MySQL
     - Data Visualization (Tableau, Plotly, & Seaborn)
     - Build, Evaluate & Deploy Machine Learning Models and Pipelines (Scikit-Learn)
