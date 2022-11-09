@@ -11,10 +11,8 @@
 <h3 align="left">About me:</h3>
 
 <br>
-<p>I have 8-year industrial experience in geological engineering and have a Ph.D. degree as well. I took a big step to change my career to become a data analyst. </p>
-<p>I'm a data analyst. I have experience working as part of a team and individually. </p>
-<p>Recently, I have been taking a data analytics bootcamp at Ironhack where I have been learning and applying machine learning models using Python, SQL, Tableau. </p>
-<p>Feel free to contact me for any questions and comments.</p>
+<p>I have 8-year industrial experience in geological engineering and have a Ph.D. degree as well. Additionally, I recently completed the 9-week full-time Data Analytics Bootcamp of Ironhack to become a data analyst. I learned new skills for my current job and potential data analyst position such as Machine Learning, Python, MySQL,Data Visualization, and Statistics.</p>
+<p>I look forward to enhance my knowledge and improve my skills. Feel free to contact me for any questions and comments.</p>
 <br><br>
 
 <strong>Projects:</strong> <br>
