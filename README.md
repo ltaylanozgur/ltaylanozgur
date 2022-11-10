@@ -12,7 +12,7 @@
 
 <br>
 <p>I have 8-year industrial experience in geological engineering and have a Ph.D. degree as well. Additionally, I recently completed the 9-week full-time Data Analytics Bootcamp of Ironhack to become a data analyst. I learned new skills for my current job and potential data analyst position such as Machine Learning, Python, MySQL, Data Visualization, and Statistics.</p>
-<p>I look forward to enhance my knowledge and improve my skills. Feel free to contact me for any questions and comments.</p>
+<p>I look forward to enhance my knowledge and improve my skills. I am open to new opportunities. Feel free to contact me for any questions and comments.</p>
 <br><br>
 
 <strong>Projects:</strong> <br>
