@@ -11,8 +11,15 @@
 <h3 align="left">About me:</h3>
 
 <br>
-<p>I have 8-year industrial experience in geological engineering and have a Ph.D. degree as well. Additionally, I recently completed the 9-week full-time Data Analytics Bootcamp of Ironhack to become a data analyst. I learned new skills for my current job and potential data analyst position such as Machine Learning, Python, MySQL, Data Visualization, and Statistics.</p>
-<p>I look forward to enhance my knowledge and improve my skills. I am open to new opportunities. Feel free to contact me for any questions and comments.</p>
+<p>Hello! I'm Ozgur 👋.
+
+I am a geologist and petrophysicist from Ankara, Turkey, and an alumni of Middle East Technical University (METU) where I earned my B.Sc. degree in Geological Engineering Department in 2011. Then, I graduated from Petroleum and Natural Gas Engineering Department of the Penn State University in the U.S. in 2014 with a masters thesis from which 3 articles were produced about petrophysics, shale, geomechanics, and stimulation subjects.
+
+After graduation from Penn State, I started working in Turkish Petroleum (TPAO) as a geologist and petrophysicist in 2015. I have 8-year industrial experience in TPAO and earned a Ph.D. degree from the Geological Engineering Department of METU in March 2022 with a thesis about petroleum potential of mudstones of late Cretaceous Haymana Formation in the Haymana Basin, Turkey using stratigraphical, sedimentological, petrophysical, and organic geochemical methods.
+
+Shortly after graduation, I decided to improve my programming fundamentals and pursue to complete Ironhack Data Analytics program. I learned new skills for my current job and potential data analyst position such as Machine Learning, Python, MySQL, Data Visualization, API & Web Scraping, and Inferential Statistics.
+
+I look forward to enhance my knowledge and improve my skills. I am open to new opportunities. Feel free to contact me for any questions and comments via ltaylanozgur@gmail.com.</p>
 <br><br>
 
 <strong>Projects:</strong> <br>
