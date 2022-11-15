@@ -19,8 +19,6 @@ After graduation from Penn State, I started working in Turkish Petroleum (TPAO) 
 
 Shortly after graduation, I decided to improve my programming fundamentals and completed 9-week Ironhack Data Analytics program. I learned new skills for my current job and potential data analyst position such as Machine Learning, Python, MySQL, Data Visualization, API & Web Scraping, and Inferential Statistics. I used these skills in 7 different projects such as Spotify song recommender, weather predictions, and football match predictions. 
  
-Besides geological engineer and data analyst, I like swimming and traveling a lot. 
-
 My goal is to enhance my knowledge and improve my skills. I look forward to new opportunities. Feel free to contact me for any questions and comments via ltaylanozgur@gmail.com.</p>
 <br><br>
 
