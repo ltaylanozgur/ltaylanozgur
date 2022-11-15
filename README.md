@@ -17,7 +17,7 @@ I am a geologist and petrophysicist from Ankara, Turkey, and an alumni of Middle
 
 After graduation from Penn State, I started working in Turkish Petroleum (TPAO) as a geologist and petrophysicist in 2015. I have 8-year industrial experience in TPAO. Moreover, I earned a Ph.D. degree in the Geological Engineering Department of METU in March 2022. My thesis includes applications in stratigraphy, sedimentology, petrophysics, and organic geochemistry to investigate petroleum potential of mudstones of late Cretaceous Haymana Formation in the Haymana Basin, Turkey.
 
-Shortly after graduation, I decided to improve my programming fundamentals and completed 9-week Ironhack Data Analytics program. I learned new skills for my current job and potential data analyst position such as Machine Learning, Python, MySQL, Data Visualization, API & Web Scraping, and Inferential Statistics.
+Shortly after graduation, I decided to improve my programming fundamentals and completed 9-week Ironhack Data Analytics program. I learned new skills for my current job and potential data analyst position such as Machine Learning, Python, MySQL, Data Visualization, API & Web Scraping, and Inferential Statistics. I used these skills in 7 different projects such as Spotify song recommender, weather predictions, and football match predictions. 
  
 Besides geological engineer and data analyst, I like swimming and traveling a lot. 
 
