@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="Hi.gif" width="75px">, I'm Ozgur Yildirim</h1>
-<h3 align="center">I a data analyst with engineering background</h3>
+<h3 align="center">I a data analyst with engineering background.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
