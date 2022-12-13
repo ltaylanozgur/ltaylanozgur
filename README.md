@@ -25,7 +25,7 @@ My goal is to enhance my knowledge and improve my skills. I look forward to new 
 <strong>Projects:</strong> <br>
  * [Football match predictions: Web scraping - RandomForestClassifier](https://github.com/ltaylanozgur/Football_Match_Predictions)
  * [Spotify song recommender: Web scraping - Working with API - Clustering](https://github.com/ltaylanozgur/Spotify_Song_Recommender)
- * [Weather predictions: Linear Regression - Logistic Regression](https://github.com/ltaylanozgur/Weather_Predictions)
+ * [Weather predictions: Time Series Forecasting - Linear Regression - Logistic Regression](https://github.com/ltaylanozgur/Weather_Predictions)
 
 <strong>Education:</strong> <br>
  
