@@ -13,13 +13,13 @@
 <br>
 <p>Hello! I'm Ozgur 👋.
 
-I am an engineer and a data analyst from Turkey, and an alumni of Middle East Technical University (METU) where I earned my B.Sc. degree in Geological Engineering Department in 2011. Then, I graduated from Petroleum and Natural Gas Engineering Department of the Penn State University in the U.S. in 2014 with a master's thesis from which I produced 2 journal articles about petrophysics, shale, geomechanics, and stimulation subjects.
+I am an engineer and a data analyst from Turkey, and an alumni of Middle East Technical University (METU) where I earned my B.Sc. degree in Geological Engineering Department in 2011. Then, I graduated from Petroleum and Natural Gas Engineering Department of the Penn State University in the U.S. in 2014 with a master's thesis from which I produced 2 peer-reviewed journal articles about petrophysics, shale, geomechanics, and stimulation subjects.
 
-After graduation from Penn State, I started working in Turkish Petroleum (TPAO) as a geologist and petrophysicist in 2015. I have 8-year industrial experience in TPAO. Moreover, I earned a Ph.D. degree in the Geological Engineering Department of METU in March 2022. My thesis includes applications in stratigraphy, sedimentology, petrophysics, and organic geochemistry to investigate petroleum potential of mudstones of late Cretaceous Haymana Formation in the Haymana Basin, Turkey.
+After graduation from Penn State, I started working in Turkish Petroleum (TPAO) as a geologist and petrophysicist in 2015. I have 8-year industrial experience in TPAO. Moreover, I earned a Ph.D. degree in the Geological Engineering Department of METU in March 2022. My thesis includes applications in stratigraphy, sedimentology, petrophysics, and organic geochemistry to investigate petroleum potential of mudstones of late Cretaceous Haymana Formation in the Haymana Basin, Turkey. This project produced one peer-reviewed journal article in Journal of Petroleum Geoscience.
 
 Shortly after graduation, I decided to improve my programming fundamentals and completed 9-week Ironhack Data Analytics program. I learned new skills for my current job and potential data analyst position such as Machine Learning, Python, MySQL, Data Visualization, API, Web Scraping, and Inferential Statistics. I used these skills in 7 different projects such as Spotify song recommender, weather predictions, and football match predictions.
 
-Recently, I have been continuing my graduate studies with teaching/research assistantship position in Energy and Mineral Engineering Department at the Penn State University in the U.S. My research topics include carbon storage opportunities and geothermal energy potential of Pennsylvania.
+Recently, I have been continuing my graduate studies as a graduate assistant in Energy and Mineral Engineering Department at the Penn State University in the U.S. My research topics include carbon storage opportunities and geothermal energy potential of Pennsylvania.
 
 My goal is to enhance my knowledge and improve my skills. I look forward to new opportunities in the oil and gas, carbon storage, geothermal, and tech industries. Feel free to contact me for any questions and comments via ltaylanozgur@gmail.com.
 
